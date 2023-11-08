@@ -18,7 +18,9 @@ GitHub Repository: https://github.com/arkenwald/Challenge01
 
 Screenshot of Live Page:
 
+![challenge01screenshot1](https://github.com/arkenwald/Challenge01/assets/149994852/a1e93fcd-168f-4b4c-962e-d866a9a741db)
 
+![challenge01screenshot2](https://github.com/arkenwald/Challenge01/assets/149994852/63579d54-fff7-4e54-92c1-fbec91884ed0)
 
 ## Credits
 
