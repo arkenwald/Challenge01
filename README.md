@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This project is for self-improvement and practice in order to provide myself with confidence within this industry.
 Refactoring is a great skill to learn as it will apply in the real world.
 This project helps improve the accesibility of the webpage to both the end-user and developer.
@@ -15,7 +13,7 @@ To install the project, I've created a repository on Github and cloned it locall
 
 ## Usage
 
-N/A
+Can be accessed: https://github.com/arkenwald/Challenge01/tree/main
 
 ## Credits
 
