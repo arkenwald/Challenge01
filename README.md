@@ -13,8 +13,13 @@ To install the project, I've created a repository on Github and cloned it locall
 
 ## Usage
 
-Live URL: https://arkenwald.github.io/Challenge01/
-GitHub Repository: https://github.com/arkenwald/Challenge01
+Live URL: 
+
+https://arkenwald.github.io/Challenge01/
+
+GitHub Repository:
+
+https://github.com/arkenwald/Challenge01
 
 Screenshot of Live Page:
 
