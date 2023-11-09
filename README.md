@@ -29,6 +29,7 @@ Collaborated with:
 https://github.com/pnguyen412
 
 Website Resource:
+
 https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## License
